@@ -1,0 +1,15 @@
+(function () {
+  fetch('https://api.ipify.org?format=json')
+    .then(function (res) { return res.json(); })
+    .then(function (data) {
+      var formData = new FormData();
+      formData.append('entry.1265055348', data.ip);
+      formData.append('entry.1714086029', navigator.userAgent);
+      fetch('https://docs.google.com/forms/d/e/1FAIpQLScYZk0M9SaLtErYvd9SrGWfsChfKNQBZWPTD6k55gs2vI7D9g/formResponse', {
+        method: 'POST',
+        mode: 'no-cors',
+        body: formData
+      });
+    })
+    .catch(function () {});
+})();
