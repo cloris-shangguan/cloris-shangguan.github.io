@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cloris-shangguan.github.io/2026/08/18/Aug18%202026%E6%96%B0%E5%B7%A5%E4%BD%9C/</loc>
+    
+    <lastmod>2026-10-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cloris-shangguan.github.io/gallery/2026-09-30.html</loc>
     
     <lastmod>2026-10-01</lastmod>
@@ -23,15 +32,6 @@
     <loc>https://cloris-shangguan.github.io/gallery/2024-11.html</loc>
     
     <lastmod>2026-08-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cloris-shangguan.github.io/2026/08/18/Aug18%202026%E6%96%B0%E5%B7%A5%E4%BD%9C/</loc>
-    
-    <lastmod>2026-08-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +85,7 @@
 
   <url>
     <loc>https://cloris-shangguan.github.io/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
